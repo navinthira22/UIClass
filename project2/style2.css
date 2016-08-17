@@ -1,0 +1,11 @@
+#orderedlist{
+    background-color: red;
+    padding: 20px;
+    margin: 50px;
+    
+}
+
+#unorderedlist{
+    background-color : yellow;
+    padding : 40px;
+}
